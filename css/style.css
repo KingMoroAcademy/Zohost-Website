@@ -160,6 +160,7 @@ footer .container .social a i {
   grid-column: 1/span 2;
   grid-row: 1/span 2;
 }
+
 .cloud-hosting {
   color: var(--light-color);
 }

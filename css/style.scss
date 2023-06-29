@@ -171,9 +171,6 @@ footer {
         }
         .our-stats {
             .stat-card {
-                i {
-
-                }
                 .text-secondary {
                     font-weight: bold;
                 }
@@ -191,14 +188,6 @@ footer {
                 grid-column: 1 / span 2;
                 grid-row: 1 / span 2;
             }
-            img {
-                
-            }
-            .cli-card {
-                .cli-feature {
-                    
-                }
-            }
         }
         
     }
@@ -210,14 +199,9 @@ footer {
         grid-template-columns: 4fr 3fr;
     }
 }
-
 .supported-languages {
     .container {
-        .languages-title {
-
-        }
         .languages-icons {
-            
             .card {
                 transition: 0.3s ease-in-out;
                 text-align: center;
